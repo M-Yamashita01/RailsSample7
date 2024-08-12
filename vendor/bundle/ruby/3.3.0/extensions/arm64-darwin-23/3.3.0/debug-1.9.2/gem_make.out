@@ -1,0 +1,19 @@
+current directory: /Users/masato.yamashita/Data/github.com/M-Yamashita01/RailsSample7/sample/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+/Users/masato.yamashita/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/masato.yamashita/Data/github.com/M-Yamashita01/RailsSample7/sample/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240810-51836-ixrs4a sitelibdir\=./.gem.20240810-51836-ixrs4a clean
+
+current directory: /Users/masato.yamashita/Data/github.com/M-Yamashita01/RailsSample7/sample/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240810-51836-ixrs4a sitelibdir\=./.gem.20240810-51836-ixrs4a
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/masato.yamashita/Data/github.com/M-Yamashita01/RailsSample7/sample/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240810-51836-ixrs4a sitelibdir\=./.gem.20240810-51836-ixrs4a install
+/usr/bin/install -c -m 0755 debug.bundle ./.gem.20240810-51836-ixrs4a/debug
+
+current directory: /Users/masato.yamashita/Data/github.com/M-Yamashita01/RailsSample7/sample/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240810-51836-ixrs4a sitelibdir\=./.gem.20240810-51836-ixrs4a clean

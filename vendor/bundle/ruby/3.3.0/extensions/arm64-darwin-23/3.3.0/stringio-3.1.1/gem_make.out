@@ -1,0 +1,18 @@
+current directory: /Users/masato.yamashita/Data/github.com/M-Yamashita01/RailsSample7/sample/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.1/ext/stringio
+/Users/masato.yamashita/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/masato.yamashita/Data/github.com/M-Yamashita01/RailsSample7/sample/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240810-51836-ssdfdz sitelibdir\=./.gem.20240810-51836-ssdfdz clean
+
+current directory: /Users/masato.yamashita/Data/github.com/M-Yamashita01/RailsSample7/sample/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240810-51836-ssdfdz sitelibdir\=./.gem.20240810-51836-ssdfdz
+compiling stringio.c
+linking shared-object stringio.bundle
+
+current directory: /Users/masato.yamashita/Data/github.com/M-Yamashita01/RailsSample7/sample/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240810-51836-ssdfdz sitelibdir\=./.gem.20240810-51836-ssdfdz install
+/usr/bin/install -c -m 0755 stringio.bundle ./.gem.20240810-51836-ssdfdz
+
+current directory: /Users/masato.yamashita/Data/github.com/M-Yamashita01/RailsSample7/sample/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.1/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20240810-51836-ssdfdz sitelibdir\=./.gem.20240810-51836-ssdfdz clean

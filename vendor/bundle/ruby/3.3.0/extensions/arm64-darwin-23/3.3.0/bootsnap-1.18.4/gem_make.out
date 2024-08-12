@@ -1,0 +1,22 @@
+current directory: /Users/masato.yamashita/Data/github.com/M-Yamashita01/RailsSample7/sample/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.18.4/ext/bootsnap
+/Users/masato.yamashita/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+checking for fdatasync() in unistd.h... yes
+checking for whether -D_GNU_SOURCE is accepted as CPPFLAGS... yes
+checking for whether -O3 is accepted as CFLAGS... yes
+checking for whether -std=c99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /Users/masato.yamashita/Data/github.com/M-Yamashita01/RailsSample7/sample/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240810-51836-ci1dmg sitelibdir\=./.gem.20240810-51836-ci1dmg clean
+
+current directory: /Users/masato.yamashita/Data/github.com/M-Yamashita01/RailsSample7/sample/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240810-51836-ci1dmg sitelibdir\=./.gem.20240810-51836-ci1dmg
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/masato.yamashita/Data/github.com/M-Yamashita01/RailsSample7/sample/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240810-51836-ci1dmg sitelibdir\=./.gem.20240810-51836-ci1dmg install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20240810-51836-ci1dmg/bootsnap
+
+current directory: /Users/masato.yamashita/Data/github.com/M-Yamashita01/RailsSample7/sample/vendor/bundle/ruby/3.3.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240810-51836-ci1dmg sitelibdir\=./.gem.20240810-51836-ci1dmg clean

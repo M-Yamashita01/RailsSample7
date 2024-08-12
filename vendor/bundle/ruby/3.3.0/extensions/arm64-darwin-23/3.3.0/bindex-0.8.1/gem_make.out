@@ -1,0 +1,18 @@
+current directory: /Users/masato.yamashita/Data/github.com/M-Yamashita01/RailsSample7/sample/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/masato.yamashita/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/masato.yamashita/Data/github.com/M-Yamashita01/RailsSample7/sample/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240810-51836-lfocrl sitelibdir\=./.gem.20240810-51836-lfocrl clean
+
+current directory: /Users/masato.yamashita/Data/github.com/M-Yamashita01/RailsSample7/sample/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240810-51836-lfocrl sitelibdir\=./.gem.20240810-51836-lfocrl
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/masato.yamashita/Data/github.com/M-Yamashita01/RailsSample7/sample/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240810-51836-lfocrl sitelibdir\=./.gem.20240810-51836-lfocrl install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20240810-51836-lfocrl/skiptrace/internal
+
+current directory: /Users/masato.yamashita/Data/github.com/M-Yamashita01/RailsSample7/sample/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240810-51836-lfocrl sitelibdir\=./.gem.20240810-51836-lfocrl clean

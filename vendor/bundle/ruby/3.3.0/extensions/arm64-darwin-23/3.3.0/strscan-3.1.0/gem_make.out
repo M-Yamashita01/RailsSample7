@@ -1,0 +1,20 @@
+current directory: /Users/masato.yamashita/Data/github.com/M-Yamashita01/RailsSample7/sample/vendor/bundle/ruby/3.3.0/gems/strscan-3.1.0/ext/strscan
+/Users/masato.yamashita/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+checking for rb_reg_onig_match() in ruby.h... yes
+creating Makefile
+
+current directory: /Users/masato.yamashita/Data/github.com/M-Yamashita01/RailsSample7/sample/vendor/bundle/ruby/3.3.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240810-51836-5hjz9p sitelibdir\=./.gem.20240810-51836-5hjz9p clean
+
+current directory: /Users/masato.yamashita/Data/github.com/M-Yamashita01/RailsSample7/sample/vendor/bundle/ruby/3.3.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240810-51836-5hjz9p sitelibdir\=./.gem.20240810-51836-5hjz9p
+compiling strscan.c
+linking shared-object strscan.bundle
+
+current directory: /Users/masato.yamashita/Data/github.com/M-Yamashita01/RailsSample7/sample/vendor/bundle/ruby/3.3.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240810-51836-5hjz9p sitelibdir\=./.gem.20240810-51836-5hjz9p install
+/usr/bin/install -c -m 0755 strscan.bundle ./.gem.20240810-51836-5hjz9p
+
+current directory: /Users/masato.yamashita/Data/github.com/M-Yamashita01/RailsSample7/sample/vendor/bundle/ruby/3.3.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240810-51836-5hjz9p sitelibdir\=./.gem.20240810-51836-5hjz9p clean
