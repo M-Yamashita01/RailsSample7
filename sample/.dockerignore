@@ -1,0 +1,39 @@
+# Git
+.git
+.gitignore
+
+# Logs
+log/*
+tmp/*
+
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# Documentation
+README.md
+memo.md
+
+# Test files
+spec/
+test/
+
+# Storage
+storage/*
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
