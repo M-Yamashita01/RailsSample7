@@ -1,0 +1,6 @@
+# frozen_string_literal: true
+
+# Load all schema files from db/schemas directory
+Dir[File.join(__dir__, 'schemas', '*.rb')].sort.each do |file|
+  eval(File.read(file), binding, file)
+end
